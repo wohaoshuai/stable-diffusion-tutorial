@@ -1,6 +1,7 @@
 # stable-diffusion-tutorial
 A collection of tutorials for latest development of stable diffusion community
-Future is now. 
+
+Tutorial is all you need.
 
 Welcome to create PRs to add more info to help each other to learn faster!
 
