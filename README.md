@@ -27,6 +27,11 @@ https://github.com/invoke-ai/InvokeAI
 Comparsion
 Both UIs have great funtionality. The canvas feature of InvokeAI can be quite useful, while WebUI currently has more extension developed by the commuity to support lastest feature faster. 
 
+[iOS/iPadOS/MacOS]
+
+Draw Things App - Support most devices/ Controlnet etc./Run locally
+https://drawthings.ai
+
 [Download models]
 You need a model file (trained by others) to run it locally. There're multiple places you can go to download pulic models or share your own in the future. 
 
