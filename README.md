@@ -34,3 +34,12 @@ https://huggingface.co/runwayml/stable-diffusion-v1-5
 
 Civitai - Not only model download but also preview the artworks from others
 https://civitai.com/
+
+[News]
+Collection of latest news sorted by date as tutorials.
+
+2023-03-07
+
+A helper drawer for [Latent Couple] exntension
+https://github.com/CodeZombie/latentcoupleregionmapper/
+
