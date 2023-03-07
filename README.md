@@ -32,6 +32,8 @@ Both UIs have great funtionality. The canvas feature of InvokeAI can be quite us
 Draw Things App - Support most devices/ Controlnet etc./Run locally
 https://drawthings.ai
 
+Diffuser - by Hugging Face based on CoreML / iPhone verison is not yet on App Store
+
 [Download models]
 You need a model file (trained by others) to run it locally. There're multiple places you can go to download pulic models or share your own in the future. 
 
