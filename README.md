@@ -43,7 +43,7 @@ Collection of latest news sorted by date as tutorials.
 A helper drawer for [Latent Couple] exntension
 https://github.com/CodeZombie/latentcoupleregionmapper/
 
-Tools
+Ads
 
 Product photos for e-commerce
 https://assembo.ai/
