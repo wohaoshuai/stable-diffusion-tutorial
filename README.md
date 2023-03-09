@@ -43,6 +43,9 @@ https://huggingface.co/runwayml/stable-diffusion-v1-5
 Civitai - Not only model download but also preview the artworks from others
 https://civitai.com/
 
+[illuminate]
+https://github.com/camenduru/stable-diffusion-webui-colab
+
 [News]
 Collection of latest news sorted by date as tutorials.
 
